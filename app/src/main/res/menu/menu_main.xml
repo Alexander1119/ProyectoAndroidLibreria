@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.primerparcial15.MainActivity">
+    <item
+        android:id="@+id/idRegistrarse"
+        android:orderInCategory="100"
+        android:title="Registrarse"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/idLoginAdmi"
+        android:orderInCategory="100"
+        android:title="Administrador"
+        app:showAsAction="never" />
+</menu>
